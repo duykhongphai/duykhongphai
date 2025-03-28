@@ -1,8 +1,15 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Duy Nguyen. I am a professional software developer specializing in game development and deep learning technologies, delivering innovative programming solutions.</br>
-## 📫 How to reach me: 
+## 📫 How to reach me:
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/duykhongphai) [![Youtube](https://i.imgur.com/Pydo0op.png) Youtube](https://www.youtube.com/@DuyKhongPhai)
+<p align="center">
+  <a href="https://github.com/duykhongphai" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/@DuyKhongPhai" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=tokyonight)
 
