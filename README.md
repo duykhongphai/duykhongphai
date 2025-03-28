@@ -11,9 +11,18 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=tokyonight)
+<table style="width:100%;">
+  <tr>
+    <td>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=tokyonight)
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&layout=compact&bg_color=FFFFFF00&text_color=179fa3&hide=CSS&langs_count=10)
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&layout=compact&bg_color=FFFFFF00&text_color=179fa3&hide=CSS&langs_count=10)
+
 
 <a href="https://github.com/duykhongphai/ASCII Generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
