@@ -27,8 +27,3 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=duykhongphai&repo=Dragonboy-Captcha-Ocr&theme=radical" />
 </a> 
-
-<a href="https://github.com/duykhongphai/DragonBoyOnline-J2ME/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=duykhongphai&repo=DragonBoyOnline-J2ME&theme=algolia" />
-</a> 
