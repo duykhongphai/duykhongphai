@@ -24,7 +24,7 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
 
 
 
-<a href="https://github.com/duykhongphai/ASCII Generator/">
+<a href="https://github.com/duykhongphai/Dragonboy-Captcha-Ocr/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=duykhongphai&repo=ASCII Generator&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=duykhongphai&repo=Dragonboy-Captcha-Ocr&theme=radical" />
 </a> 
