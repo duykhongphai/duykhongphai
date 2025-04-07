@@ -17,7 +17,7 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
       <img src="https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=tokyonight" alt="duykhongphai" width="100%"/>
     </td>
     <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&show_icons=true&theme=tokyonight" alt="duykhongphai" width="100%"/>
     </td>
   </tr>
 </table>
