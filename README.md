@@ -14,10 +14,10 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=tokyonight" alt="duykhongphai" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=blue_navy" alt="duykhongphai" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&show_icons=true&layout=compact&theme=tokyonight" alt="duykhongphai" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&show_icons=true&layout=compact&theme=blue_navy" alt="duykhongphai" width="100%"/>
     </td>
   </tr>
 </table>
