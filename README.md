@@ -22,9 +22,9 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
   </tr>
 </table>
 
-<a href="https://github.com/duykhongphai/DragonBoyOnline-J2ME/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=DragonBoyOnline-J2ME&theme=algolia" />
-</a> 
 <a href="https://github.com/duykhongphai/Dragonboy-Captcha-Ocr/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=Dragonboy-Captcha-Ocr&theme=radical" />
+</a> 
+<a href="https://github.com/duykhongphai/DragonBoyOnline-J2ME/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=DragonBoyOnline-J2ME&theme=algolia" />
 </a> 
