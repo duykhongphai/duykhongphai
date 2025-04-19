@@ -28,3 +28,6 @@ My name is Duy Nguyen. I am a professional software developer specializing in ga
 <a href="https://github.com/duykhongphai/DragonBoyOnline-J2ME/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=DragonBoyOnline-J2ME&theme=nightowl" />
 </a> 
+<a href="https://github.com/duykhongphai/JarRenamer/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=JarRenamer&theme=algolia" />
+</a> 
