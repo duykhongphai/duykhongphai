@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duy Nguyen. I am a professional software developer specializing in game development and deep learning technologies, delivering innovative programming solutions.</br>
+My name is Duy Nguyen. I am a software developer specializing in game development and deep learning technologies, delivering innovative programming solutions.</br>
 ## 📫 How to reach me:
 
 <p align="center">
