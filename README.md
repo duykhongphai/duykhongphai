@@ -31,6 +31,3 @@ My name is Duy Nguyen. I am a software developer specializing in game developmen
 <a href="https://github.com/duykhongphai/JarRenamer/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=JarRenamer&theme=algolia" />
 </a> 
-<a href="https://github.com/duykhongphai/ResetTrial/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=ResetTrial&theme=omni" />
-</a> 
