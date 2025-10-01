@@ -37,3 +37,6 @@ My name is Duy Nguyen. I am a software developer specializing in game developmen
 <a href="https://github.com/duykhongphai/NinjaSchoolCaptcha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=NinjaSchoolCaptcha&theme=chartreuse-dark" />
 </a> 
+<a href="https://github.com/duykhongphai/ConvertYoutubeShortToTiktok">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=ConvertYoutubeShortToTiktok&theme=omni" />
+</a> 
