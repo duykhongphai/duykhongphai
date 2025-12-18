@@ -22,6 +22,9 @@ My name is Duy Nguyen. I am a software developer specializing in game developmen
   </tr>
 </table>
 
+<a href="https://github.com/duykhongphai/RegisterVMUCourses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=RegisterVMUCourses&theme=jolly" />
+</a> 
 <a href="https://github.com/duykhongphai/Dragonboy-Captcha-Ocr/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=Dragonboy-Captcha-Ocr&theme=radical" />
 </a> 
