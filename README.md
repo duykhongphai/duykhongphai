@@ -68,34 +68,86 @@
 
 <div align="center">
 
-<a href="https://github.com/duykhongphai/RegisterVMUCourses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=RegisterVMUCourses&theme=react&border_color=3DAEF5&border_radius=10&title_color=3DAEF5&icon_color=3DAEF5" />
-</a>
-<a href="https://github.com/duykhongphai/Dragonboy-Captcha-Ocr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=Dragonboy-Captcha-Ocr&theme=react&border_color=FF6B6B&border_radius=10&title_color=FF6B6B&icon_color=FF6B6B" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### RegisterVMUCourses
+**Course Registration Automation System**
 
-<div align="center">
+Automated registration system for Vietnamese Maritime University using Playwright and Selenium with parallel processing capabilities.
 
-<a href="https://github.com/duykhongphai/DragonBoyOnline-J2ME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=DragonBoyOnline-J2ME&theme=react&border_color=A78BFA&border_radius=10&title_color=A78BFA&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/duykhongphai/NinjaSchoolCaptcha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=NinjaSchoolCaptcha&theme=react&border_color=FCD34D&border_radius=10&title_color=FCD34D&icon_color=FCD34D" />
-</a>
+`Java` `Selenium` `Playwright` `Automation`
 
-</div>
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/RegisterVMUCourses)
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/duykhongphai/JarRenamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=JarRenamer&theme=react&border_color=34D399&border_radius=10&title_color=34D399&icon_color=34D399" />
-</a>
-<a href="https://github.com/duykhongphai/ConvertYoutubeShortToTiktok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=ConvertYoutubeShortToTiktok&theme=react&border_color=F472B6&border_radius=10&title_color=F472B6&icon_color=F472B6" />
-</a>
+### Dragonboy Captcha OCR
+**Deep Learning Captcha Solver**
+
+Advanced OCR system using deep learning models for captcha recognition and solving with high accuracy rates.
+
+`Python` `TensorFlow` `OCR` `Deep Learning`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/Dragonboy-Captcha-Ocr)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### DragonBoyOnline J2ME
+**Mobile Game Development**
+
+Legacy J2ME mobile game converted to modern LibGDX framework with performance optimizations and cross-platform support.
+
+`Java` `LibGDX` `Game Development` `Mobile`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/DragonBoyOnline-J2ME)
+
+</td>
+<td width="50%" valign="top">
+
+### NinjaSchool Captcha
+**Captcha Generation Engine**
+
+High-performance captcha generation system with customizable difficulty levels and anti-bot capabilities.
+
+`Java` `Image Processing` `Security`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/NinjaSchoolCaptcha)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### JarRenamer
+**JAR File Processing Tool**
+
+Utility tool for batch renaming and processing JAR files with advanced filtering and pattern matching.
+
+`Java` `File Processing` `Automation`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/JarRenamer)
+
+</td>
+<td width="50%" valign="top">
+
+### ConvertYoutubeShortToTiktok
+**Video Conversion Pipeline**
+
+Automated pipeline for converting YouTube Shorts to TikTok format with optimized encoding and metadata handling.
+
+`Python` `FFmpeg` `Video Processing`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/ConvertYoutubeShortToTiktok)
+
+</td>
+</tr>
+</table>
 
 </div>
 
