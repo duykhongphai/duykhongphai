@@ -11,16 +11,6 @@
 
 <br/>
 
-<div align="center">
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=duykhongphai&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
 ## Contribution Activity
 
 <div align="center">
