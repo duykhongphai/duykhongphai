@@ -145,9 +145,6 @@ AI-powered plugin for automatic function renaming in binary analysis. Features b
 
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/IDA_AI_Renamer)
 
-</td>
-<td width="50%" valign="top">
-
 ### ConvertYoutubeShortToTiktok
 **Video Conversion Pipeline**
 
