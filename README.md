@@ -2,59 +2,61 @@
 
 # Duy Nguyen
 
-**Software Developer | Game Development & Deep Learning Specialist**
+**Software Developer | Game Development & Reverse Engineering Specialist**
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DuyKhongPhai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duykhongphai)
 
 </div>
 
-<br/>
+---
 
-## Contribution Activity
+## About Me
 
-<div align="center">
+Specialized in game server development, reverse engineering, and deep learning applications. Focused on building high-performance systems with clean, optimized code architecture.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=duykhongphai&theme=transparent&hide_border=true&ring=3DAEF5&fire=3DAEF5&currStreakLabel=3DAEF5)](https://git.io/streak-stats)
+**Core Expertise:**
+- Game server development with high-concurrency optimization (10,000+ players)
+- Mobile game development and LibGDX framework conversions
+- Reverse engineering and binary analysis using IDA Pro
+- Deep learning OCR systems and automation tools
 
-</div>
+---
 
-<br/>
+## Technical Stack
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-## Technical Expertise
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="25%" align="center">
 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-<td align="center" width="33%">
+<td width="25%" align="center">
 
-**Frameworks**
+**Game Development**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-E84C3D?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="25%" align="center">
+
+**Deep Learning**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
-<td align="center" width="33%">
+<td width="25%" align="center">
 
-**Tools**
+**Tools & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Netty](https://img.shields.io/badge/Netty-009688?style=flat-square&logo=apache&logoColor=white)
 
@@ -62,33 +64,22 @@
 </tr>
 </table>
 
-<br/>
+---
+
 ## Featured Projects
-<div align="center">
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### RegisterVMUCourses
-**Course Registration Automation System**
+### AI Function Renamer
+**IDA Pro Plugin for Intelligent Function Naming**
 
-Automated registration system for Vietnamese Maritime University using Playwright and Selenium with parallel processing capabilities.
+AI-powered plugin for automatic function renaming in binary analysis. Features batch processing, parallel execution, and smart duplicate prevention.
 
-`Java` `Selenium` `Playwright` `Automation`
+`Python` `IDA Pro` `AI` `Reverse Engineering`
 
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/RegisterVMUCourses)
-
-</td>
-<td width="33%" valign="top">
-
-### Dragonboy Captcha OCR
-**Deep Learning Captcha Solver**
-
-Advanced OCR system using deep learning models for captcha recognition and solving with high accuracy rates.
-
-`Python` `TensorFlow` `OCR` `Deep Learning`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/Dragonboy-Captcha-Ocr)
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/IDA_AI_Renamer)
 
 </td>
 <td width="33%" valign="top">
@@ -98,13 +89,37 @@ Advanced OCR system using deep learning models for captcha recognition and solvi
 
 Legacy J2ME mobile game converted to modern LibGDX framework with performance optimizations and cross-platform support.
 
-`Java` `LibGDX` `Game Development` `Mobile`
+`Java` `LibGDX` `Game Development`
 
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/DragonBoyOnline-J2ME)
 
 </td>
+<td width="33%" valign="top">
+
+### Dragonboy Captcha OCR
+**Deep Learning Captcha Solver**
+
+Advanced OCR system using deep learning models for captcha recognition and solving with high accuracy rates.
+
+`Python` `TensorFlow` `OCR`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/Dragonboy-Captcha-Ocr)
+
+</td>
 </tr>
 <tr>
+<td width="33%" valign="top">
+
+### RegisterVMUCourses
+**Course Registration Automation System**
+
+Automated registration system using Playwright and Selenium with parallel processing capabilities for Vietnamese Maritime University.
+
+`Java` `Selenium` `Playwright`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/RegisterVMUCourses)
+
+</td>
 <td width="33%" valign="top">
 
 ### NinjaSchool Captcha
@@ -119,53 +134,34 @@ High-performance captcha generation system with customizable difficulty levels a
 </td>
 <td width="33%" valign="top">
 
-### JarRenamer
-**JAR File Processing Tool**
-
-Utility tool for batch renaming and processing JAR files with advanced filtering and pattern matching.
-
-`Java` `File Processing` `Automation`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/JarRenamer)
-
-</td>
-<td width="33%" valign="top">
-
-### AI Function Renamer
-**IDA Pro Plugin for Intelligent Function Naming**
-
-AI-powered plugin for automatic function renaming in binary analysis. Features batch processing, parallel execution, and smart duplicate prevention for high-performance reverse engineering workflows.
-
-`Python` `IDA Pro` `Reverse Engineering` `AI` `Binary Analysis`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/IDA_AI_Renamer)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
 ### ConvertYoutubeShortToTiktok
 **Video Conversion Pipeline**
 
 Automated pipeline for converting YouTube Shorts to TikTok format with optimized encoding and metadata handling.
 
-`Python` `FFmpeg` `Video Processing`
+`Python` `FFmpeg` `Automation`
 
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/ConvertYoutubeShortToTiktok)
 
 </td>
-<td width="33%" valign="top">
-
-</td>
-<td width="33%" valign="top">
-
-</td>
 </tr>
 </table>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duykhongphai&theme=transparent&hide_border=true&ring=3DAEF5&fire=3DAEF5&currStreakLabel=3DAEF5)](https://git.io/streak-stats)
+
 </div>
 
-## Contribution Snake
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/duykhongphai/duykhongphai/blob/output/github-contribution-grid-snake-dark.svg">
@@ -173,14 +169,10 @@ Automated pipeline for converting YouTube Shorts to TikTok format with optimized
   <img alt="github contribution grid snake animation" src="https://github.com/duykhongphai/duykhongphai/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
-
 ---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=duykhongphai&color=3daef5&style=flat-square&label=Profile+Views)
-
-**Delivering innovative programming solutions in game development and deep learning**
 
 </div>
