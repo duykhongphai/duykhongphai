@@ -25,7 +25,8 @@ Specialized in game server development, reverse engineering, and deep learning a
 
 ## Technical Stack
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
 <td width="25%" align="center">
 
@@ -63,12 +64,14 @@ Specialized in game server development, reverse engineering, and deep learning a
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ## Featured Projects
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
@@ -146,6 +149,7 @@ Automated pipeline for converting YouTube Shorts to TikTok format with optimized
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
