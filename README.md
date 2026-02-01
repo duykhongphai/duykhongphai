@@ -63,14 +63,11 @@
 </table>
 
 <br/>
-
 ## Featured Projects
-
 <div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### RegisterVMUCourses
 **Course Registration Automation System**
@@ -82,7 +79,7 @@ Automated registration system for Vietnamese Maritime University using Playwrigh
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/RegisterVMUCourses)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Dragonboy Captcha OCR
 **Deep Learning Captcha Solver**
@@ -94,9 +91,7 @@ Advanced OCR system using deep learning models for captcha recognition and solvi
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/Dragonboy-Captcha-Ocr)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### DragonBoyOnline J2ME
 **Mobile Game Development**
@@ -108,7 +103,9 @@ Legacy J2ME mobile game converted to modern LibGDX framework with performance op
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/DragonBoyOnline-J2ME)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### NinjaSchool Captcha
 **Captcha Generation Engine**
@@ -120,9 +117,7 @@ High-performance captcha generation system with customizable difficulty levels a
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/NinjaSchoolCaptcha)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### JarRenamer
 **JAR File Processing Tool**
@@ -134,16 +129,21 @@ Utility tool for batch renaming and processing JAR files with advanced filtering
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/JarRenamer)
 
 </td>
-<td width="50%" valign="top">
-  
+<td width="33%" valign="top">
+
 ### AI Function Renamer
 **IDA Pro Plugin for Intelligent Function Naming**
 
 AI-powered plugin for automatic function renaming in binary analysis. Features batch processing, parallel execution, and smart duplicate prevention for high-performance reverse engineering workflows.
 
-`Python` `IDA Pro` `Reverse Engineering` [AI](cci:2://file:///g:/auto_re.py:552:0-1328:75) `Binary Analysis`
+`Python` `IDA Pro` `Reverse Engineering` `AI` `Binary Analysis`
 
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/IDA_AI_Renamer)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### ConvertYoutubeShortToTiktok
 **Video Conversion Pipeline**
@@ -155,12 +155,15 @@ Automated pipeline for converting YouTube Shorts to TikTok format with optimized
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/ConvertYoutubeShortToTiktok)
 
 </td>
+<td width="33%" valign="top">
+
+</td>
+<td width="33%" valign="top">
+
+</td>
 </tr>
 </table>
-
 </div>
-
-<br/>
 
 ## Contribution Snake
 
