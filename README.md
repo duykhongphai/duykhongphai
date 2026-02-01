@@ -135,6 +135,18 @@ Utility tool for batch renaming and processing JAR files with advanced filtering
 
 </td>
 <td width="50%" valign="top">
+  
+### AI Function Renamer
+**IDA Pro Plugin for Intelligent Function Naming**
+
+AI-powered plugin for automatic function renaming in binary analysis. Features batch processing, parallel execution, and smart duplicate prevention for high-performance reverse engineering workflows.
+
+`Python` `IDA Pro` `Reverse Engineering` [AI](cci:2://file:///g:/auto_re.py:552:0-1328:75) `Binary Analysis`
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/IDA_AI_Renamer)
+
+</td>
+<td width="50%" valign="top">
 
 ### ConvertYoutubeShortToTiktok
 **Video Conversion Pipeline**
