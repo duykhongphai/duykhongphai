@@ -156,7 +156,7 @@ Automated pipeline for converting YouTube Shorts to TikTok format with optimized
 ## GitHub Statistics
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=duykhongphai)](https://git.io/streak-stats)
+[[GitHub Streak](https://streak-stats.demolab.com/?user=duykhongphai)](https://git.io/streak-stats)
 
 </div>
 
