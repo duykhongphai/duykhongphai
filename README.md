@@ -16,7 +16,7 @@
 Specialized in game server development, reverse engineering, and deep learning applications. Focused on building high-performance systems with clean, optimized code architecture.
 
 **Core Expertise:**
-- Game server development with high-concurrency optimization (10,000+ players)
+- Game server development with high-concurrency optimization 
 - Mobile game development and LibGDX framework conversions
 - Reverse engineering and binary analysis using IDA Pro
 - Deep learning OCR systems and automation tools
@@ -156,8 +156,7 @@ Automated pipeline for converting YouTube Shorts to TikTok format with optimized
 ## GitHub Statistics
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=duykhongphai&theme=transparent&hide_border=true&ring=3DAEF5&fire=3DAEF5&currStreakLabel=3DAEF5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duykhongphai)](https://git.io/streak-stats)
 
 </div>
 
