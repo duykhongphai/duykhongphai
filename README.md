@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=230&section=header&text=Duy%20Nguyen&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Game%20Dev%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Emulators&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Duy Nguyen" />
 
 <a href="https://github.com/duykhongphai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E100FF&center=true&vCenter=true&width=640&lines=Building+JVMs+from+scratch+%E2%98%95;J2ME+games+on+iPhone+and+in+the+browser+%F0%9F%93%B1;Game+servers+%E2%80%A2+Reverse+engineering+%E2%80%A2+AI+tools;Low-level+C+%2F+Java+%2F+C%23+%2F+TypeScript+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E100FF&center=true&vCenter=true&width=640&lines=Building+JVMs+from+scratch;J2ME+games+on+iPhone+and+in+the+browser;Game+servers+%E2%80%A2+Reverse+engineering+%E2%80%A2+AI+tools;Low-level+C+%2F+Java+%2F+C%23+%2F+TypeScript" alt="Typing SVG" />
 </a>
 
 <p>
@@ -14,7 +14,7 @@
 
 </div>
 
-## 🧑‍💻 About me
+## About me
 
 ```java
 public class DuyNguyen {
@@ -25,12 +25,12 @@ public class DuyNguyen {
 }
 ```
 
-- 🎮 Game server development with high-concurrency tuning
-- 🕹️ Retro mobile games: **J2ME emulators** for iPhone and the web, J2ME → LibGDX conversions
-- 🔍 Reverse engineering and binary analysis with IDA Pro
-- 🤖 Deep learning OCR and automation tools
+- Game server development with high-concurrency tuning
+- Retro mobile games: **J2ME emulators** for iPhone and the web, J2ME → LibGDX conversions
+- Reverse engineering and binary analysis with IDA Pro
+- Deep learning OCR and automation tools
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -39,21 +39,21 @@ public class DuyNguyen {
 
 </div>
 
-## 🌟 Spotlight
+## Spotlight
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [J2ME4iOS](https://github.com/duykhongphai/J2ME4iOS)
+### [J2ME4iOS](https://github.com/duykhongphai/J2ME4iOS)
 **Play J2ME games on iPhone.** A Java VM written from scratch in portable C (no JIT), with the
 CLDC/MIDP library reimplemented in Java.
 
-- 🧊 **3D:** M3G (JSR-184) + Mascot Capsule v3, software rasterizer
-- 🎵 Built-in General MIDI synth, tone sequences, Nokia ringtones
-- 🗂️ Several games at once, 5 save slots, SOCKS5 / HTTP proxy per slot
-- 🎮 MFi / Xbox / PlayStation controllers, sliding on-screen keypad
-- 🏷️ Nokia, Samsung, Siemens, Motorola, LG APIs
+- **3D:** M3G (JSR-184) + Mascot Capsule v3, software rasterizer
+- Built-in General MIDI synth, tone sequences, Nokia ringtones
+- Several games at once, 5 save slots, SOCKS5 / HTTP proxy per slot
+- MFi / Xbox / PlayStation controllers, sliding on-screen keypad
+- Nokia, Samsung, Siemens, Motorola, LG APIs
 
 <a href="https://github.com/duykhongphai/J2ME4iOS/releases/latest"><img src="https://img.shields.io/badge/Download-IPA-E100FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download IPA" /></a>
 <a href="https://github.com/duykhongphai/J2ME4iOS"><img src="https://img.shields.io/badge/Source-C%20%2B%20Java-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
@@ -61,15 +61,15 @@ CLDC/MIDP library reimplemented in Java.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [J2ME4W](https://github.com/duykhongphai/J2ME4W)
+### [J2ME4W](https://github.com/duykhongphai/J2ME4W)
 **Play J2ME games in the browser.** A JVM written in TypeScript plus a MIDP implementation;
 nothing is uploaded, the JAR stays in your browser.
 
-- 🗃️ Game library with icons, per-game settings
-- 🪟 Several games in tabs, grid view, synced input
-- ⌨️ Keypad editor, keyboard and gamepad remapping
-- 🎶 General MIDI synth, WebAudio sound
-- 🔌 Network bridge for online games
+- Game library with icons, per-game settings
+- Several games in tabs, grid view, synced input
+- Keypad editor, keyboard and gamepad remapping
+- General MIDI synth, WebAudio sound
+- Network bridge for online games
 
 <a href="https://duykhongphai.github.io/J2ME4W/"><img src="https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
 <a href="https://github.com/duykhongphai/J2ME4W"><img src="https://img.shields.io/badge/Source-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Source" /></a>
@@ -78,17 +78,17 @@ nothing is uploaded, the JAR stays in your browser.
 </tr>
 </table>
 
-## 🚀 More projects
+## More projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ [CaptchaGenerator](https://github.com/duykhongphai/CaptchaGenerator) | Randomized captcha images (backgrounds, glyphs, effects) against bots in Ngọc Rồng Online servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| 🏹 [NinjaSchoolCaptcha](https://github.com/duykhongphai/NinjaSchoolCaptcha) | Lightweight arrow-challenge captcha for Ninja School game servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| 🔤 [JarRenamer](https://github.com/duykhongphai/JarRenamer) | Desktop tool to rename classes, methods and fields inside a `.jar` | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| 📲 [AndroidCustomMenuMod](https://github.com/duykhongphai/AndroidCustomMenuMod) | **Onyx**: floating menu UI engine for Android apps (draggable bubble, tabs, Canvas-drawn controls) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| 🗣️ [VideoTranslator](https://github.com/duykhongphai/VideoTranslator) | Translates hard-subbed videos: OCR (20+ languages), AI translation, blur and re-burn subtitles, MP4/SRT export (CUDA or CPU) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [CaptchaGenerator](https://github.com/duykhongphai/CaptchaGenerator) | Randomized captcha images (backgrounds, glyphs, effects) against bots in Ngọc Rồng Online servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+| [NinjaSchoolCaptcha](https://github.com/duykhongphai/NinjaSchoolCaptcha) | Lightweight arrow-challenge captcha for Ninja School game servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+| [JarRenamer](https://github.com/duykhongphai/JarRenamer) | Desktop tool to rename classes, methods and fields inside a `.jar` | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+| [AndroidCustomMenuMod](https://github.com/duykhongphai/AndroidCustomMenuMod) | **Onyx**: floating menu UI engine for Android apps (draggable bubble, tabs, Canvas-drawn controls) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [VideoTranslator](https://github.com/duykhongphai/VideoTranslator) | Translates hard-subbed videos: OCR (20+ languages), AI translation, blur and re-burn subtitles, MP4/SRT export (CUDA or CPU) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
