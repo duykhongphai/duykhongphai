@@ -92,16 +92,39 @@ nothing is uploaded, the JAR stays in your browser.
 
 <div align="center">
 
-<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Profile details" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile details" />
+</picture>
 
-<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Stats" />
-<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
-<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most commit language" />
-<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive time" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github/3-stats.svg" width="49%" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile-summary-card-output/github/4-productive-time.svg" width="49%" alt="Productive time" />
+</picture>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
+<a href="https://git.io/streak-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile/streak-dark.svg">
+  <img src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/main/profile/streak.svg" alt="GitHub streak" />
+</picture>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=E100FF&title_color=E100FF&line=E100FF&point=00D4FF&area_color=7F00FF">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=ffffff&color=7F00FF&title_color=7F00FF&line=E100FF&point=00D4FF&area_color=E100FF" width="100%" alt="Contribution graph" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/output/github-contribution-grid-snake-dark.svg">
