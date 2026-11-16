@@ -80,15 +80,6 @@ nothing is uploaded, the JAR stays in your browser.
 
 ## 🚀 More projects
 
-<div align="center">
-
-<a href="https://github.com/duykhongphai/CaptchaGenerator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=CaptchaGenerator&theme=radical&hide_border=true" alt="CaptchaGenerator" /></a>
-<a href="https://github.com/duykhongphai/NinjaSchoolCaptcha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=NinjaSchoolCaptcha&theme=radical&hide_border=true" alt="NinjaSchoolCaptcha" /></a>
-<a href="https://github.com/duykhongphai/JarRenamer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=JarRenamer&theme=radical&hide_border=true" alt="JarRenamer" /></a>
-<a href="https://github.com/duykhongphai/AndroidCustomMenuMod"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=AndroidCustomMenuMod&theme=radical&hide_border=true" alt="AndroidCustomMenuMod" /></a>
-
-</div>
-
 | Project | What it does | Stack |
 |---|---|---|
 | 🛡️ [CaptchaGenerator](https://github.com/duykhongphai/CaptchaGenerator) | Randomized captcha images (backgrounds, glyphs, effects) against bots in Ngọc Rồng Online servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
@@ -101,8 +92,12 @@ nothing is uploaded, the JAR stays in your browser.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Profile details" />
+
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Stats" />
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive time" />
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
 
