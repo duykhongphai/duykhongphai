@@ -80,13 +80,52 @@ nothing is uploaded, the JAR stays in your browser.
 
 ## More projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [CaptchaGenerator](https://github.com/duykhongphai/CaptchaGenerator) | Randomized captcha images (backgrounds, glyphs, effects) against bots in Ngọc Rồng Online servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| [NinjaSchoolCaptcha](https://github.com/duykhongphai/NinjaSchoolCaptcha) | Lightweight arrow-challenge captcha for Ninja School game servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| [JarRenamer](https://github.com/duykhongphai/JarRenamer) | Desktop tool to rename classes, methods and fields inside a `.jar` | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| [AndroidCustomMenuMod](https://github.com/duykhongphai/AndroidCustomMenuMod) | **Onyx**: floating menu UI engine for Android apps (draggable bubble, tabs, Canvas-drawn controls) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| [VideoTranslator](https://github.com/duykhongphai/VideoTranslator) | Translates hard-subbed videos: OCR (20+ languages), AI translation, blur and re-burn subtitles, MP4/SRT export (CUDA or CPU) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [DataNro](https://github.com/duykhongphai/DataNro)
+Items, monsters, NPCs, skills and maps of **Ngọc Rồng Online**, pulled straight from the game
+servers and updated automatically every day. Static JSON + sprite API and a lookup site.
+
+<a href="https://duykhongphai.github.io/DataNro/"><img src="https://img.shields.io/badge/Lookup-Site-00D4FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Lookup site" /></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+
+</td>
+<td width="50%" valign="top">
+
+### [LoudLift](https://github.com/duykhongphai/LoudLift)
+Make any video louder and evenly loud, without re-encoding the picture: the video stream is copied
+bit for bit, only the audio is processed. Self-hosted web tool on FFmpeg, GPU + CPU.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CaptchaGenerator](https://github.com/duykhongphai/CaptchaGenerator)
+Randomized captcha images (backgrounds, glyphs, effects) that keep bots and auto tools out of
+Ngọc Rồng Online servers, tuned for speed.
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/github/stars/duykhongphai/CaptchaGenerator?style=for-the-badge&color=E100FF" alt="Stars" />
+
+</td>
+<td width="50%" valign="top">
+
+### [NinjaSchoolCaptcha](https://github.com/duykhongphai/NinjaSchoolCaptcha)
+Lightweight captcha for Ninja School game servers: players answer visual arrow challenges,
+bots do not.
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/github/stars/duykhongphai/NinjaSchoolCaptcha?style=for-the-badge&color=E100FF" alt="Stars" />
+
+</td>
+</tr>
+</table>
 
 ## GitHub stats
 
