@@ -1,181 +1,123 @@
 <div align="center">
 
-# Duy Nguyen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=230&section=header&text=Duy%20Nguyen&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Game%20Dev%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Emulators&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Duy Nguyen" />
 
-**Software Developer | Game Development & Reverse Engineering Specialist**
+<a href="https://github.com/duykhongphai">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E100FF&center=true&vCenter=true&width=640&lines=Building+JVMs+from+scratch+%E2%98%95;J2ME+games+on+iPhone+and+in+the+browser+%F0%9F%93%B1;Game+servers+%E2%80%A2+Reverse+engineering+%E2%80%A2+AI+tools;Low-level+C+%2F+Java+%2F+C%23+%2F+TypeScript+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DuyKhongPhai)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duykhongphai)
+<p>
+  <a href="https://www.youtube.com/@DuyKhongPhai"><img src="https://img.shields.io/badge/YouTube-DuyKhongPhai-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/duykhongphai"><img src="https://img.shields.io/badge/GitHub-duykhongphai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=duykhongphai&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
----
+## 🧑‍💻 About me
 
-## About Me
+```java
+public class DuyNguyen {
+    String role      = "Software Developer";
+    String[] loves   = { "game servers", "reverse engineering", "emulators", "deep learning OCR" };
+    String[] builds  = { "a JVM in C for iOS", "a JVM in TypeScript for the web", "anti-bot captchas" };
+    String  motto    = "Clean, fast, low-level code.";
+}
+```
 
-Specialized in game server development, reverse engineering, and deep learning applications. Focused on building high-performance systems with clean, optimized code architecture.
+- 🎮 Game server development with high-concurrency tuning
+- 🕹️ Retro mobile games: **J2ME emulators** for iPhone and the web, J2ME → LibGDX conversions
+- 🔍 Reverse engineering and binary analysis with IDA Pro
+- 🤖 Deep learning OCR and automation tools
 
-**Core Expertise:**
-- Game server development with high-concurrency optimization 
-- Mobile game development and LibGDX framework conversions
-- Reverse engineering and binary analysis using IDA Pro
-- Deep learning OCR systems and automation tools
-
----
-
-## Technical Stack
+## 🛠️ Tech stack
 
 <div align="center">
-<table width="100%">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,ts,js&theme=dark" alt="Languages" /><br/>
+<img src="https://skillicons.dev/icons?i=unity,androidstudio,apple,pytorch,tensorflow,docker,mysql,nodejs,vite,git,linux,vscode&theme=dark" alt="Tools" />
+
+</div>
+
+## 🌟 Spotlight
+
+<table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-**Languages**
+### 📱 [J2ME4iOS](https://github.com/duykhongphai/J2ME4iOS)
+**Play J2ME games on iPhone.** A Java VM written from scratch in portable C (no JIT), with the
+CLDC/MIDP library reimplemented in Java.
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🧊 **3D:** M3G (JSR-184) + Mascot Capsule v3, software rasterizer
+- 🎵 Built-in General MIDI synth, tone sequences, Nokia ringtones
+- 🗂️ Several games at once, 5 save slots, SOCKS5 / HTTP proxy per slot
+- 🎮 MFi / Xbox / PlayStation controllers, sliding on-screen keypad
+- 🏷️ Nokia, Samsung, Siemens, Motorola, LG APIs
 
-</td>
-<td width="25%" align="center">
-
-**Game Development**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![LibGDX](https://img.shields.io/badge/LibGDX-E84C3D?style=flat-square&logo=android&logoColor=white)
-
-</td>
-<td width="25%" align="center">
-
-**Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<a href="https://github.com/duykhongphai/J2ME4iOS/releases/latest"><img src="https://img.shields.io/badge/Download-IPA-E100FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download IPA" /></a>
+<a href="https://github.com/duykhongphai/J2ME4iOS"><img src="https://img.shields.io/badge/Source-C%20%2B%20Java-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
 
 </td>
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-**Tools & Infrastructure**
+### 🌐 [J2ME4W](https://github.com/duykhongphai/J2ME4W)
+**Play J2ME games in the browser.** A JVM written in TypeScript plus a MIDP implementation;
+nothing is uploaded, the JAR stays in your browser.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Netty](https://img.shields.io/badge/Netty-009688?style=flat-square&logo=apache&logoColor=white)
+- 🗃️ Game library with icons, per-game settings
+- 🪟 Several games in tabs, grid view, synced input
+- ⌨️ Keypad editor, keyboard and gamepad remapping
+- 🎶 General MIDI synth, WebAudio sound
+- 🔌 Network bridge for online games
+
+<a href="https://duykhongphai.github.io/J2ME4W/"><img src="https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/duykhongphai/J2ME4W"><img src="https://img.shields.io/badge/Source-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Source" /></a>
 
 </td>
 </tr>
 </table>
-</div>
 
----
-
-## Featured Projects
+## 🚀 More projects
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
 
-### AI Function Renamer
-**IDA Pro Plugin for Intelligent Function Naming**
+<a href="https://github.com/duykhongphai/CaptchaGenerator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=CaptchaGenerator&theme=radical&hide_border=true" alt="CaptchaGenerator" /></a>
+<a href="https://github.com/duykhongphai/NinjaSchoolCaptcha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=NinjaSchoolCaptcha&theme=radical&hide_border=true" alt="NinjaSchoolCaptcha" /></a>
+<a href="https://github.com/duykhongphai/JarRenamer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=JarRenamer&theme=radical&hide_border=true" alt="JarRenamer" /></a>
+<a href="https://github.com/duykhongphai/AndroidCustomMenuMod"><img src="https://github-readme-stats.vercel.app/api/pin/?username=duykhongphai&repo=AndroidCustomMenuMod&theme=radical&hide_border=true" alt="AndroidCustomMenuMod" /></a>
 
-AI-powered plugin for automatic function renaming in binary analysis. Features batch processing, parallel execution, and smart duplicate prevention.
-
-`Python` `IDA Pro` `AI` `Reverse Engineering`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/IDA_AI_Renamer)
-
-</td>
-<td width="33%" valign="top">
-
-### DragonBoyOnline J2ME
-**Mobile Game Development**
-
-Legacy J2ME mobile game converted to modern LibGDX framework with performance optimizations and cross-platform support.
-
-`Java` `LibGDX` `Game Development`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/DragonBoyOnline-J2ME)
-
-</td>
-<td width="33%" valign="top">
-
-### Dragonboy Captcha OCR
-**Deep Learning Captcha Solver**
-
-Advanced OCR system using deep learning models for captcha recognition and solving with high accuracy rates.
-
-`Python` `TensorFlow` `OCR`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/Dragonboy-Captcha-Ocr)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### RegisterVMUCourses
-**Course Registration Automation System**
-
-Automated registration system using Playwright and Selenium with parallel processing capabilities for Vietnamese Maritime University.
-
-`Java` `Selenium` `Playwright`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/RegisterVMUCourses)
-
-</td>
-<td width="33%" valign="top">
-
-### NinjaSchool Captcha
-**Captcha Generation Engine**
-
-High-performance captcha generation system with customizable difficulty levels and anti-bot capabilities.
-
-`Java` `Image Processing` `Security`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/NinjaSchoolCaptcha)
-
-</td>
-<td width="33%" valign="top">
-
-### ConvertYoutubeShortToTiktok
-**Video Conversion Pipeline**
-
-Automated pipeline for converting YouTube Shorts to TikTok format with optimized encoding and metadata handling.
-
-`Python` `FFmpeg` `Automation`
-
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/duykhongphai/ConvertYoutubeShortToTiktok)
-
-</td>
-</tr>
-</table>
 </div>
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| 🛡️ [CaptchaGenerator](https://github.com/duykhongphai/CaptchaGenerator) | Randomized captcha images (backgrounds, glyphs, effects) against bots in Ngọc Rồng Online servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+| 🏹 [NinjaSchoolCaptcha](https://github.com/duykhongphai/NinjaSchoolCaptcha) | Lightweight arrow-challenge captcha for Ninja School game servers | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+| 🔤 [JarRenamer](https://github.com/duykhongphai/JarRenamer) | Desktop tool to rename classes, methods and fields inside a `.jar` | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
+| 📲 [AndroidCustomMenuMod](https://github.com/duykhongphai/AndroidCustomMenuMod) | **Onyx**: floating menu UI engine for Android apps (draggable bubble, tabs, Canvas-drawn controls) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🗣️ [VideoTranslator](https://github.com/duykhongphai/VideoTranslator) | Translates hard-subbed videos: OCR (20+ languages), AI translation, blur and re-burn subtitles, MP4/SRT export (CUDA or CPU) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-## GitHub Statistics
+## 📊 GitHub stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=duykhongphai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhongphai&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 
-<br/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duykhongphai&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/duykhongphai/duykhongphai/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/duykhongphai/duykhongphai/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/duykhongphai/duykhongphai/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duykhongphai/duykhongphai/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/duykhongphai/duykhongphai/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+</div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=duykhongphai&color=3daef5&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="" />
 
 </div>
